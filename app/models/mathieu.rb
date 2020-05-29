@@ -1,0 +1,2 @@
+class Mathieu < ApplicationRecord
+end
